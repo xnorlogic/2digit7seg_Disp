@@ -1,0 +1,13 @@
+Model: TwoDigit_7SegDisp_TL
+
+CHANGE REPORT
+9/18/2018
+Records in Report: 1
+Records in Model:  1
+
+--------------------------------------------------
+Date:   9/18/2018
+System: TwoDigit_7SegDisp_TL
+User: Andy
+Change: initial version
+--------------------------------------------------
